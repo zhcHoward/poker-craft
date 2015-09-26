@@ -1,0 +1,86 @@
+[
+    {
+        "num": "J",
+        "atk": 0,
+        "suit": "spade",
+        "hp": 7
+    },
+    {
+        "num": "Q",
+        "atk": 0,
+        "suit": "spade",
+        "hp": 7
+    },
+    {
+        "num": "K",
+        "atk": 0,
+        "suit": "spade",
+        "hp": 7
+    },
+    {
+        "num": "J",
+        "atk": 0,
+        "suit": "heart",
+        "hp": 7
+    },
+    {
+        "num": "Q",
+        "atk": 0,
+        "suit": "heart",
+        "hp": 7
+    },
+    {
+        "num": "K",
+        "atk": 0,
+        "suit": "heart",
+        "hp": 7
+    },
+    {
+        "num": "J",
+        "atk": 0,
+        "suit": "diamond",
+        "hp": 7
+    },
+    {
+        "num": "Q",
+        "atk": 0,
+        "suit": "diamond",
+        "hp": 7
+    },
+    {
+        "num": "K",
+        "atk": 0,
+        "suit": "diamond",
+        "hp": 7
+    },
+    {
+        "num": "J",
+        "atk": 0,
+        "suit": "club",
+        "hp": 7
+    },
+    {
+        "num": "Q",
+        "atk": 0,
+        "suit": "club",
+        "hp": 7
+    },
+    {
+        "num": "K",
+        "atk": 0,
+        "suit": "club",
+        "hp": 7
+    },
+    {
+        "num": "black",
+        "atk": 0,
+        "suit": "joker",
+        "hp": 7
+    },
+    {
+        "num": "red",
+        "atk": 0,
+        "suit": "joker",
+        "hp": 7
+    }
+]
